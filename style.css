@@ -157,7 +157,7 @@ section{
 .skills-grid div:hover{
   background:#00c6ff;
   color:black;
-  transform:scale(1.1);
+  transform:scale(1.1) rotate(2deg);
 }
 
 button{
