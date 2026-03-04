@@ -34,6 +34,7 @@ nav{
   backdrop-filter: blur(8px);
   position:sticky;
   top:0;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.5);
 }
 
 .logo{
@@ -157,7 +158,7 @@ section{
 .skills-grid div:hover{
   background:#00c6ff;
   color:black;
-  transform:scale(1.1) rotate(2deg);
+  transform:scale(1.1) rotate(0deg);
 }
 
 button{
