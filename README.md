@@ -23,6 +23,7 @@ The portfolio showcases my skills, projects, and background as a web developer.
 
 ## Project Structure
 
+```
 ApexTask1/
 │
 ├── index.html
@@ -32,6 +33,7 @@ ApexTask1/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ## Live Website
 
