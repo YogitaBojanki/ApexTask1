@@ -24,6 +24,8 @@ body{
   background: linear-gradient(135deg, #040c35, #0b2d4f);
   background-size: 400% 400%;
   animation: gradientBG 12s ease infinite;
+  display:flex;
+  flex-direction:column;
 }
 
 @keyframes gradientBG {
@@ -97,6 +99,10 @@ section{
   padding:80px 60px;
   text-align:center;
   animation: slideUp 1s ease;
+}
+
+section{
+  flex:1;
 }
 
 @keyframes slideUp{
